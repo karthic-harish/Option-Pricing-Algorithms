@@ -1,5 +1,7 @@
 # Option-Pricing-Algorithms
 
+## SUTD 40.242 Derivative Pricing & Risk Management
+
 ### Python Implementation of 4 option pricing methods:
 
 - Monte Carlo simulation
